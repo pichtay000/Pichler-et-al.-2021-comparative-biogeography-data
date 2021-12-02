@@ -1,7 +1,7 @@
 # Pichler-et-al.-2021-comparative-biogeography-data
 
-Repository Description: Data files for 'Comparative biogeography of volant and nonvolant mammals in a 
-temperate archipelago' for publication in Ecosphere.
+Repository Description: Data files associated with 'Comparative biogeography of volant and non-volant mammals in a 
+temperate island archipelago' for publication in Ecosphere.
 
 Authors: Taylor R. Pichler, Elyse C. Mallinger, Morgan J. Farmer, Megan J. Morrison, Bijit Khadka, 
 Parker J. Matzinger, Alan Kirschbaum, Katy R. Goodwin, William T. Route, Julie Van Stappen, Timothy R.
