@@ -1,3 +1,5 @@
+<a href="https://zenodo.org/badge/latestdoi/434113576"><img src="https://zenodo.org/badge/434113576.svg" alt="DOI"></a>
+
 # Pichler-et-al.-2021-comparative-biogeography-data
 
 Repository Description: Data files associated with 'Comparative biogeography of volant and non-volant mammals in a 
