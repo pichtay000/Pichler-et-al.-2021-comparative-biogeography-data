@@ -1,0 +1,492 @@
+island,presence,species,body_mass_g,winter_active
+Basswood,1,ODVI,55508.56,1
+Bear,1,ODVI,55508.56,1
+Cat,1,ODVI,55508.56,1
+Devils,0,ODVI,55508.56,1
+Eagle,0,ODVI,55508.56,1
+Hermit,1,ODVI,55508.56,1
+Ironwood,0,ODVI,55508.56,1
+Mainland,1,ODVI,55508.56,1
+Manitou,1,ODVI,55508.56,1
+Michigan,0,ODVI,55508.56,1
+North Twin,0,ODVI,55508.56,1
+Oak,1,ODVI,55508.56,1
+Otter,1,ODVI,55508.56,1
+Outer,1,ODVI,55508.56,1
+Raspberry,0,ODVI,55508.56,1
+Rocky,1,ODVI,55508.56,1
+Sand,1,ODVI,55508.56,1
+South Twin,0,ODVI,55508.56,1
+Stockton,1,ODVI,55508.56,1
+York,0,ODVI,55508.56,1
+Basswood,1,LEAM,1710.02,1
+Bear,1,LEAM,1710.02,1
+Cat,1,LEAM,1710.02,1
+Devils,1,LEAM,1710.02,1
+Eagle,0,LEAM,1710.02,1
+Hermit,1,LEAM,1710.02,1
+Ironwood,0,LEAM,1710.02,1
+Mainland,1,LEAM,1710.02,1
+Manitou,0,LEAM,1710.02,1
+Michigan,0,LEAM,1710.02,1
+North Twin,1,LEAM,1710.02,1
+Oak,1,LEAM,1710.02,1
+Otter,1,LEAM,1710.02,1
+Outer,1,LEAM,1710.02,1
+Raspberry,1,LEAM,1710.02,1
+Rocky,1,LEAM,1710.02,1
+Sand,1,LEAM,1710.02,1
+South Twin,1,LEAM,1710.02,1
+Stockton,1,LEAM,1710.02,1
+York,1,LEAM,1710.02,1
+Basswood,1,PRLO,5524.97,0
+Bear,0,PRLO,5524.97,0
+Cat,1,PRLO,5524.97,0
+Devils,0,PRLO,5524.97,0
+Eagle,0,PRLO,5524.97,0
+Hermit,0,PRLO,5524.97,0
+Ironwood,0,PRLO,5524.97,0
+Mainland,1,PRLO,5524.97,0
+Manitou,0,PRLO,5524.97,0
+Michigan,0,PRLO,5524.97,0
+North Twin,0,PRLO,5524.97,0
+Oak,1,PRLO,5524.97,0
+Otter,1,PRLO,5524.97,0
+Outer,0,PRLO,5524.97,0
+Raspberry,0,PRLO,5524.97,0
+Rocky,0,PRLO,5524.97,0
+Sand,1,PRLO,5524.97,0
+South Twin,0,PRLO,5524.97,0
+Stockton,1,PRLO,5524.97,0
+York,0,PRLO,5524.97,0
+Basswood,1,LYRU,8904.1,1
+Bear,0,LYRU,8904.1,1
+Cat,0,LYRU,8904.1,1
+Devils,0,LYRU,8904.1,1
+Eagle,0,LYRU,8904.1,1
+Hermit,0,LYRU,8904.1,1
+Ironwood,0,LYRU,8904.1,1
+Mainland,1,LYRU,8904.1,1
+Manitou,0,LYRU,8904.1,1
+Michigan,0,LYRU,8904.1,1
+North Twin,0,LYRU,8904.1,1
+Oak,1,LYRU,8904.1,1
+Otter,0,LYRU,8904.1,1
+Outer,0,LYRU,8904.1,1
+Raspberry,0,LYRU,8904.1,1
+Rocky,0,LYRU,8904.1,1
+Sand,0,LYRU,8904.1,1
+South Twin,0,LYRU,8904.1,1
+Stockton,1,LYRU,8904.1,1
+York,0,LYRU,8904.1,1
+Basswood,0,CALU,32183.33,1
+Bear,0,CALU,32183.33,1
+Cat,0,CALU,32183.33,1
+Devils,0,CALU,32183.33,1
+Eagle,0,CALU,32183.33,1
+Hermit,0,CALU,32183.33,1
+Ironwood,0,CALU,32183.33,1
+Mainland,1,CALU,32183.33,1
+Manitou,0,CALU,32183.33,1
+Michigan,0,CALU,32183.33,1
+North Twin,0,CALU,32183.33,1
+Oak,0,CALU,32183.33,1
+Otter,0,CALU,32183.33,1
+Outer,0,CALU,32183.33,1
+Raspberry,0,CALU,32183.33,1
+Rocky,0,CALU,32183.33,1
+Sand,0,CALU,32183.33,1
+South Twin,0,CALU,32183.33,1
+Stockton,1,CALU,32183.33,1
+York,0,CALU,32183.33,1
+Basswood,1,CALA,13406.33,1
+Bear,1,CALA,13406.33,1
+Cat,0,CALA,13406.33,1
+Devils,0,CALA,13406.33,1
+Eagle,0,CALA,13406.33,1
+Hermit,1,CALA,13406.33,1
+Ironwood,0,CALA,13406.33,1
+Mainland,1,CALA,13406.33,1
+Manitou,0,CALA,13406.33,1
+Michigan,0,CALA,13406.33,1
+North Twin,0,CALA,13406.33,1
+Oak,1,CALA,13406.33,1
+Otter,0,CALA,13406.33,1
+Outer,1,CALA,13406.33,1
+Raspberry,1,CALA,13406.33,1
+Rocky,0,CALA,13406.33,1
+Sand,1,CALA,13406.33,1
+South Twin,0,CALA,13406.33,1
+Stockton,1,CALA,13406.33,1
+York,0,CALA,13406.33,1
+Basswood,1,VUVU,5476.17,1
+Bear,1,VUVU,5476.17,1
+Cat,0,VUVU,5476.17,1
+Devils,0,VUVU,5476.17,1
+Eagle,0,VUVU,5476.17,1
+Hermit,1,VUVU,5476.17,1
+Ironwood,0,VUVU,5476.17,1
+Mainland,1,VUVU,5476.17,1
+Manitou,1,VUVU,5476.17,1
+Michigan,0,VUVU,5476.17,1
+North Twin,0,VUVU,5476.17,1
+Oak,1,VUVU,5476.17,1
+Otter,1,VUVU,5476.17,1
+Outer,1,VUVU,5476.17,1
+Raspberry,1,VUVU,5476.17,1
+Rocky,0,VUVU,5476.17,1
+Sand,1,VUVU,5476.17,1
+South Twin,1,VUVU,5476.17,1
+Stockton,1,VUVU,5476.17,1
+York,0,VUVU,5476.17,1
+Basswood,1,URCI,3833.72,1
+Bear,0,URCI,3833.72,1
+Cat,0,URCI,3833.72,1
+Devils,0,URCI,3833.72,1
+Eagle,0,URCI,3833.72,1
+Hermit,0,URCI,3833.72,1
+Ironwood,0,URCI,3833.72,1
+Mainland,1,URCI,3833.72,1
+Manitou,0,URCI,3833.72,1
+Michigan,0,URCI,3833.72,1
+North Twin,0,URCI,3833.72,1
+Oak,1,URCI,3833.72,1
+Otter,0,URCI,3833.72,1
+Outer,1,URCI,3833.72,1
+Raspberry,0,URCI,3833.72,1
+Rocky,0,URCI,3833.72,1
+Sand,0,URCI,3833.72,1
+South Twin,0,URCI,3833.72,1
+Stockton,1,URCI,3833.72,1
+York,0,URCI,3833.72,1
+Basswood,0,MAAM,1250,1
+Bear,1,MAAM,1250,1
+Cat,1,MAAM,1250,1
+Devils,0,MAAM,1250,1
+Eagle,0,MAAM,1250,1
+Hermit,0,MAAM,1250,1
+Ironwood,0,MAAM,1250,1
+Mainland,0,MAAM,1250,1
+Manitou,1,MAAM,1250,1
+Michigan,0,MAAM,1250,1
+North Twin,0,MAAM,1250,1
+Oak,0,MAAM,1250,1
+Otter,1,MAAM,1250,1
+Outer,1,MAAM,1250,1
+Raspberry,0,MAAM,1250,1
+Rocky,1,MAAM,1250,1
+Sand,0,MAAM,1250,1
+South Twin,0,MAAM,1250,1
+Stockton,1,MAAM,1250,1
+York,0,MAAM,1250,1
+Basswood,1,PEPE,4000,1
+Bear,0,PEPE,4000,1
+Cat,1,PEPE,4000,1
+Devils,0,PEPE,4000,1
+Eagle,0,PEPE,4000,1
+Hermit,0,PEPE,4000,1
+Ironwood,0,PEPE,4000,1
+Mainland,1,PEPE,4000,1
+Manitou,0,PEPE,4000,1
+Michigan,0,PEPE,4000,1
+North Twin,0,PEPE,4000,1
+Oak,1,PEPE,4000,1
+Otter,0,PEPE,4000,1
+Outer,0,PEPE,4000,1
+Raspberry,0,PEPE,4000,1
+Rocky,1,PEPE,4000,1
+Sand,1,PEPE,4000,1
+South Twin,0,PEPE,4000,1
+Stockton,1,PEPE,4000,1
+York,0,PEPE,4000,1
+Basswood,0,MUER,119.38,1
+Bear,0,MUER,119.38,1
+Cat,0,MUER,119.38,1
+Devils,1,MUER,119.38,1
+Eagle,0,MUER,119.38,1
+Hermit,0,MUER,119.38,1
+Ironwood,0,MUER,119.38,1
+Mainland,0,MUER,119.38,1
+Manitou,0,MUER,119.38,1
+Michigan,0,MUER,119.38,1
+North Twin,0,MUER,119.38,1
+Oak,0,MUER,119.38,1
+Otter,0,MUER,119.38,1
+Outer,0,MUER,119.38,1
+Raspberry,0,MUER,119.38,1
+Rocky,0,MUER,119.38,1
+Sand,1,MUER,119.38,1
+South Twin,0,MUER,119.38,1
+Stockton,0,MUER,119.38,1
+York,0,MUER,119.38,1
+Basswood,1,URAM,99949.36,0
+Bear,1,URAM,99949.36,0
+Cat,1,URAM,99949.36,0
+Devils,0,URAM,99949.36,0
+Eagle,0,URAM,99949.36,0
+Hermit,1,URAM,99949.36,0
+Ironwood,1,URAM,99949.36,0
+Mainland,1,URAM,99949.36,0
+Manitou,1,URAM,99949.36,0
+Michigan,0,URAM,99949.36,0
+North Twin,0,URAM,99949.36,0
+Oak,1,URAM,99949.36,0
+Otter,1,URAM,99949.36,0
+Outer,1,URAM,99949.36,0
+Raspberry,0,URAM,99949.36,0
+Rocky,1,URAM,99949.36,0
+Sand,1,URAM,99949.36,0
+South Twin,0,URAM,99949.36,0
+Stockton,1,URAM,99949.36,0
+York,1,URAM,99949.36,0
+Basswood,0,ERDO,7085.33,0
+Bear,0,ERDO,7085.33,0
+Cat,0,ERDO,7085.33,0
+Devils,0,ERDO,7085.33,0
+Eagle,0,ERDO,7085.33,0
+Hermit,0,ERDO,7085.33,0
+Ironwood,0,ERDO,7085.33,0
+Mainland,1,ERDO,7085.33,0
+Manitou,0,ERDO,7085.33,0
+Michigan,0,ERDO,7085.33,0
+North Twin,0,ERDO,7085.33,0
+Oak,0,ERDO,7085.33,0
+Otter,0,ERDO,7085.33,0
+Outer,0,ERDO,7085.33,0
+Raspberry,0,ERDO,7085.33,0
+Rocky,0,ERDO,7085.33,0
+Sand,0,ERDO,7085.33,0
+South Twin,0,ERDO,7085.33,0
+Stockton,0,ERDO,7085.33,0
+York,0,ERDO,7085.33,0
+Basswood,0,MUFR,147,1
+Bear,0,MUFR,147,1
+Cat,0,MUFR,147,1
+Devils,0,MUFR,147,1
+Eagle,0,MUFR,147,1
+Hermit,0,MUFR,147,1
+Ironwood,0,MUFR,147,1
+Mainland,1,MUFR,147,1
+Manitou,0,MUFR,147,1
+Michigan,0,MUFR,147,1
+North Twin,0,MUFR,147,1
+Oak,0,MUFR,147,1
+Otter,0,MUFR,147,1
+Outer,0,MUFR,147,1
+Raspberry,0,MUFR,147,1
+Rocky,0,MUFR,147,1
+Sand,0,MUFR,147,1
+South Twin,0,MUFR,147,1
+Stockton,0,MUFR,147,1
+York,0,MUFR,147,1
+Basswood,1,TAHU,201.17,1
+Bear,1,TAHU,201.17,1
+Cat,1,TAHU,201.17,1
+Devils,1,TAHU,201.17,1
+Eagle,0,TAHU,201.17,1
+Hermit,1,TAHU,201.17,1
+Ironwood,1,TAHU,201.17,1
+Mainland,1,TAHU,201.17,1
+Manitou,1,TAHU,201.17,1
+Michigan,1,TAHU,201.17,1
+North Twin,1,TAHU,201.17,1
+Oak,1,TAHU,201.17,1
+Otter,1,TAHU,201.17,1
+Outer,1,TAHU,201.17,1
+Raspberry,1,TAHU,201.17,1
+Rocky,1,TAHU,201.17,1
+Sand,1,TAHU,201.17,1
+South Twin,1,TAHU,201.17,1
+Stockton,1,TAHU,201.17,1
+York,1,TAHU,201.17,1
+Basswood,1,SCCA,506.5,1
+Bear,0,SCCA,506.5,1
+Cat,0,SCCA,506.5,1
+Devils,0,SCCA,506.5,1
+Eagle,0,SCCA,506.5,1
+Hermit,0,SCCA,506.5,1
+Ironwood,0,SCCA,506.5,1
+Mainland,1,SCCA,506.5,1
+Manitou,0,SCCA,506.5,1
+Michigan,0,SCCA,506.5,1
+North Twin,0,SCCA,506.5,1
+Oak,0,SCCA,506.5,1
+Otter,0,SCCA,506.5,1
+Outer,0,SCCA,506.5,1
+Raspberry,0,SCCA,506.5,1
+Rocky,0,SCCA,506.5,1
+Sand,0,SCCA,506.5,1
+South Twin,0,SCCA,506.5,1
+Stockton,0,SCCA,506.5,1
+York,0,SCCA,506.5,1
+Michigan,1,MYGA,19.83,1
+Sand,1,MYGA,19.83,1
+North Twin,1,MYGA,19.83,1
+York,1,MYGA,19.83,1
+Raspberry,1,MYGA,19.83,1
+Manitou,1,MYGA,19.83,1
+Otter,1,MYGA,19.83,1
+Hermit,1,MYGA,19.83,1
+Basswood,1,MYGA,19.83,1
+Rocky,1,MYGA,19.83,1
+Cat,1,MYGA,19.83,1
+Ironwood,1,MYGA,19.83,1
+Outer,1,MYGA,19.83,1
+South Twin,1,MYGA,19.83,1
+Bear,1,MYGA,19.83,1
+Devils,1,MYGA,19.83,1
+Mainland,1,MYGA,19.83,1
+Oak,1,MYGA,19.83,1
+Stockton,1,MYGA,19.83,1
+Michigan,1,PELE,21.17,1
+Sand,1,PELE,21.17,1
+North Twin,0,PELE,21.17,1
+York,1,PELE,21.17,1
+Raspberry,0,PELE,21.17,1
+Manitou,0,PELE,21.17,1
+Otter,0,PELE,21.17,1
+Hermit,0,PELE,21.17,1
+Basswood,0,PELE,21.17,1
+Rocky,1,PELE,21.17,1
+Cat,0,PELE,21.17,1
+Ironwood,0,PELE,21.17,1
+Outer,1,PELE,21.17,1
+South Twin,0,PELE,21.17,1
+Bear,0,PELE,21.17,1
+Devils,0,PELE,21.17,1
+Mainland,1,PELE,21.17,1
+Oak,1,PELE,21.17,1
+Stockton,1,PELE,21.17,1
+Michigan,0,PEMA,21.28,1
+Sand,1,PEMA,21.28,1
+North Twin,0,PEMA,21.28,1
+York,1,PEMA,21.28,1
+Raspberry,0,PEMA,21.28,1
+Manitou,0,PEMA,21.28,1
+Otter,0,PEMA,21.28,1
+Hermit,0,PEMA,21.28,1
+Basswood,0,PEMA,21.28,1
+Rocky,1,PEMA,21.28,1
+Cat,0,PEMA,21.28,1
+Ironwood,0,PEMA,21.28,1
+Outer,1,PEMA,21.28,1
+South Twin,0,PEMA,21.28,1
+Bear,0,PEMA,21.28,1
+Devils,0,PEMA,21.28,1
+Mainland,1,PEMA,21.28,1
+Oak,0,PEMA,21.28,1
+Stockton,1,PEMA,21.28,1
+Michigan,1,SOCI,4.66,1
+Sand,0,SOCI,4.66,1
+North Twin,1,SOCI,4.66,1
+York,0,SOCI,4.66,1
+Raspberry,1,SOCI,4.66,1
+Manitou,0,SOCI,4.66,1
+Otter,1,SOCI,4.66,1
+Hermit,1,SOCI,4.66,1
+Basswood,0,SOCI,4.66,1
+Rocky,0,SOCI,4.66,1
+Cat,0,SOCI,4.66,1
+Ironwood,0,SOCI,4.66,1
+Outer,1,SOCI,4.66,1
+South Twin,0,SOCI,4.66,1
+Bear,1,SOCI,4.66,1
+Devils,0,SOCI,4.66,1
+Mainland,1,SOCI,4.66,1
+Oak,1,SOCI,4.66,1
+Stockton,1,SOCI,4.66,1
+Michigan,0,BLBR,28,1
+Sand,0,BLBR,28,1
+North Twin,0,BLBR,28,1
+York,0,BLBR,28,1
+Raspberry,0,BLBR,28,1
+Manitou,0,BLBR,28,1
+Otter,0,BLBR,28,1
+Hermit,0,BLBR,28,1
+Basswood,1,BLBR,28,1
+Rocky,0,BLBR,28,1
+Cat,0,BLBR,28,1
+Ironwood,0,BLBR,28,1
+Outer,0,BLBR,28,1
+South Twin,0,BLBR,28,1
+Bear,0,BLBR,28,1
+Devils,0,BLBR,28,1
+Mainland,1,BLBR,28,1
+Oak,1,BLBR,28,1
+Stockton,0,BLBR,28,1
+Michigan,0,MIPE,36.75,1
+Sand,0,MIPE,36.75,1
+North Twin,0,MIPE,36.75,1
+York,0,MIPE,36.75,1
+Raspberry,0,MIPE,36.75,1
+Manitou,0,MIPE,36.75,1
+Otter,0,MIPE,36.75,1
+Hermit,0,MIPE,36.75,1
+Basswood,0,MIPE,36.75,1
+Rocky,0,MIPE,36.75,1
+Cat,0,MIPE,36.75,1
+Ironwood,0,MIPE,36.75,1
+Outer,0,MIPE,36.75,1
+South Twin,0,MIPE,36.75,1
+Bear,0,MIPE,36.75,1
+Devils,0,MIPE,36.75,1
+Mainland,1,MIPE,36.75,1
+Oak,0,MIPE,36.75,1
+Stockton,1,MIPE,36.75,1
+Michigan,0,ZAHU,17.12,0
+Sand,0,ZAHU,17.12,0
+North Twin,0,ZAHU,17.12,0
+York,0,ZAHU,17.12,0
+Raspberry,0,ZAHU,17.12,0
+Manitou,0,ZAHU,17.12,0
+Otter,0,ZAHU,17.12,0
+Hermit,0,ZAHU,17.12,0
+Basswood,0,ZAHU,17.12,0
+Rocky,0,ZAHU,17.12,0
+Cat,0,ZAHU,17.12,0
+Ironwood,0,ZAHU,17.12,0
+Outer,0,ZAHU,17.12,0
+South Twin,0,ZAHU,17.12,0
+Bear,0,ZAHU,17.12,0
+Devils,0,ZAHU,17.12,0
+Mainland,1,ZAHU,17.12,0
+Oak,0,ZAHU,17.12,0
+Stockton,0,ZAHU,17.12,0
+Michigan,0,TAST,111.91,0
+Sand,0,TAST,111.91,0
+North Twin,0,TAST,111.91,0
+York,0,TAST,111.91,0
+Raspberry,0,TAST,111.91,0
+Manitou,0,TAST,111.91,0
+Otter,0,TAST,111.91,0
+Hermit,0,TAST,111.91,0
+Basswood,0,TAST,111.91,0
+Rocky,0,TAST,111.91,0
+Cat,0,TAST,111.91,0
+Ironwood,0,TAST,111.91,0
+Outer,0,TAST,111.91,0
+South Twin,0,TAST,111.91,0
+Bear,0,TAST,111.91,0
+Devils,0,TAST,111.91,0
+Mainland,1,TAST,111.91,0
+Oak,0,TAST,111.91,0
+Stockton,0,TAST,111.91,0
+Michigan,0,GLVO,63.87,0
+Sand,0,GLVO,63.87,0
+North Twin,0,GLVO,63.87,0
+York,0,GLVO,63.87,0
+Raspberry,0,GLVO,63.87,0
+Manitou,0,GLVO,63.87,0
+Otter,0,GLVO,63.87,0
+Hermit,0,GLVO,63.87,0
+Basswood,0,GLVO,63.87,0
+Rocky,0,GLVO,63.87,0
+Cat,0,GLVO,63.87,0
+Ironwood,0,GLVO,63.87,0
+Outer,0,GLVO,63.87,0
+South Twin,0,GLVO,63.87,0
+Bear,0,GLVO,63.87,0
+Devils,0,GLVO,63.87,0
+Mainland,1,GLVO,63.87,0
+Oak,0,GLVO,63.87,0
+Stockton,0,GLVO,63.87,0
